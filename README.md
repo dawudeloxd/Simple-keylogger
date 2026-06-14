@@ -1,0 +1,2 @@
+# Simple-keylogger
+THIS IS ONLY FOR EDUCATIONAL PURPOSES
